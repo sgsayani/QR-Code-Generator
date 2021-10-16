@@ -1,8 +1,8 @@
 import qrcode
 qr=qrcode.QRCode(
     version=1,
-    box_size=10,
-    border=5
+    box_size=12,
+    border=6
     )
 
 data="Hello everyone! I am a qrcode"
